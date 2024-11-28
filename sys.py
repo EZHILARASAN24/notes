@@ -50,41 +50,56 @@ def generate_diagram():
 def create_syllabus_content():
     # Define the syllabus content
     syllabus = [
-        "1. Introduction to Python",
-        "   - Python is a high-level programming language.",
-        "   - Learn syntax, data types, variables, and basic operations.",
+        "1.INTRODUCTION TO DRONE TECHNOLOGY",
+        "   - Drone Concept."
+        "   - Vocabulary Terminology."
+        "   - History of drone."
+        "   - Types of current generation of drones based on their method of propulsion.",
+        "   - Drone technology impact on the businessesDrone business through entrepreneurship."
+        "   - Opportunities/applications for entrepreneurship and employability.",
         "",
-        "2. Control Flow: Conditionals and Loops",
-        "   - Use 'if', 'else', and 'elif' for decision-making.",
-        "   - Learn loops: 'for', 'while'.",
+        "2. DRONE DESIGN, FABRICATION AND PROGRAMMING",
+        "   -Classifications of the UAV."
+        "   -Overview of the main drone parts."
+        "   - Technical characteristics of the parts."
+        "   -Function of the component parts."
+        "   -Assembling a drone."
+        "   - The energy sources."
+        "   - Level of autonomy."
+        "   - Drones configurations."
+        "   -The methods of programming drone."
+        "   - Download program."
+        "   -Install program on computer."
+        "   - Running Programs." 
+        "   -Multi rotor stabilization."
+        "   - Flight modes -Wi-Ficonnection",
         "",
-        "3. Functions and Modules",
-        "   - Define functions with 'def'.",
-        "   - Learn about modules and importing libraries.",
+        "3.DRONE FLYING AND OPERATION",
+        "   -Concept of operation for drone."
+        "   -Flight modes."
+        "   - Operate a small drone in a controlled environment."
+        "   - Drone controls Flight operations."
+        "   –management tool."
+        "   –Sensors-Onboard storage capacity."
+        "   -Removable storage devices."
+        "   - Linked mobile devices and applications",
         "",
-        "4. Object-Oriented Programming (OOP)",
-        "   - Understand the concepts of classes and objects.",
-        "   - Learn about inheritance, polymorphism, and encapsulation.",
+        "4.DRONE COMMERCIAL APPLICATIONS",
+        "   -Choosing a drone based on the application."
+        "   -Drones in the insurance sector."
+        "   - Drones in delivering mail, parcels and other cargo."
+        "   - Drones in agriculture."
+        "   - Drones in inspection of transmission lines and power distribution."
+        "   -Drones in filming and panoramic picturing",
         "",
-        "5. Data Structures",
-        "   - Work with lists, dictionaries, sets, and tuples.",
-        "   - Learn about advanced data structures like stacks and queues.",
+        "5.FUTURE DRONES AND SAFETY",
+        "   - The safety risks."
+        "   - Guidelines to fly safely."
+        "   -Specific aviation regulation and standardizationDrone license."
+        "   - Miniaturization of drones."
+        "   - Increasing autonomy of drones."
+        "   -The use of drones in swarms.",
         "",
-        "6. Error Handling and Debugging",
-        "   - Learn about exceptions and try-except blocks.",
-        "   - Understand debugging techniques in Python.",
-        "",
-        "7. Working with Files and Databases",
-        "   - Reading and writing to files.",
-        "   - Basics of working with databases using SQLite.",
-        "",
-        "8. Libraries and Frameworks",
-        "   - Explore popular Python libraries like numpy, pandas, matplotlib.",
-        "   - Introduction to web frameworks like Flask or Django.",
-        "",
-        "9. Final Project",
-        "   - Build a real-world application using Python.",
-        "   - Apply all the concepts learned in the course."
     ]
     return syllabus
 
